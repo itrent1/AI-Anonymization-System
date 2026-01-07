@@ -1,0 +1,8 @@
+﻿weights/*
+inputs/*
+outputs/*
+!weights/.gitkeep
+!inputs/.gitkeep
+!outputs/.gitkeep
+__pycache__/
+venv/

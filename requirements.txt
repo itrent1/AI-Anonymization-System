@@ -1,0 +1,25 @@
+# --- UI & Video Processing ---
+streamlit==1.52.2
+opencv-python==4.11.0.86
+pillow==10.2.0
+tqdm==4.67.1
+
+# --- Data Science Stack ---
+numpy==1.26.4
+pandas==2.2.3
+
+# --- AI Frameworks & Models ---
+ultralytics==8.3.248
+insightface==0.7.3
+onnx==1.20.0
+
+# --- Compute Runtime (GPU Support) ---
+onnxruntime-gpu==1.23.2
+
+# --- Deep Learning (PyTorch with CUDA 12.1) ---
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+torchaudio==2.5.1+cu121 --extra-index-url https://download.pytorch.org/whl/cu121
+
+imageio==2.37.2
+imageio-ffmpeg==0.6.0
